@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "bs-custom-file-input": "^1.3.4",
+        "jquery": "^3.6.4",
+        "jshint": "^2.13.6"
+    }
+}
